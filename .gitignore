@@ -81,3 +81,7 @@ _working.cc
 
 # entire idea folder
 .idea/
+
+# VS Code
+.vscode
+build
