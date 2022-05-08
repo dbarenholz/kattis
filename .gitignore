@@ -78,6 +78,7 @@ fabric.properties
 
 # current file
 _working.cc
+_template.cc
 
 # entire idea folder
 .idea/
