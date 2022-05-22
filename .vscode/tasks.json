@@ -1,0 +1,27 @@
+{
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "Build active file (clang++-14)",
+            "command": "/usr/bin/clang++-14",
+            "args": [
+                "-g",
+                "-std=gnu++2a",
+                "${file}",
+                "-o",
+                "/home/dan/dev/Kattis/build/Kattis"
+            ],
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+        }
+    ],
+    "version": "2.0.0"
+}
