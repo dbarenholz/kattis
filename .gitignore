@@ -85,3 +85,6 @@ _template.cc
 
 # VS Code
 build
+
+# Single file
+_working
