@@ -32,6 +32,14 @@ const ll INF = 1e9;
 const double EPS = 1e-9;
 const ld PI = 3.1415926535897932384626433832795;
 
+ll gcd(ll a, ll b) {
+    return b == 0 ? a : gcd(b, a % b);
+}
+
+ll lcm(ll a, ll b) {
+    return (a * b) / gcd(a, b);
+}
+
 int main() {
     fast_io
 
