@@ -43,6 +43,19 @@ ll lcm(ll a, ll b) {
 int main() {
     fast_io
 
+    ll n;
+    cin >> n;
+
+    ll first;
+    cin >> first;
+    n--;
+
+    WHILE(n) {
+        ll ring;
+        cin >> ring;
+        ll tmp = gcd(first, ring);
+        cout << first / tmp << "/" << ring / tmp << "\n";
+    }
 
     return 0;
 }
