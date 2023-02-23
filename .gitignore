@@ -76,15 +76,13 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 
-# current file
-_working.cc
-_template.cc
+###### Own added things
 
-# entire idea folder
+# Ignore entire idea folder
 .idea/
 
-# VS Code
-build
+# Ignore working file
+_working.cc
 
-# Single file
+# Ignore built working file
 _working
