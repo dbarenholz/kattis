@@ -40,6 +40,29 @@ ll lcm(ll a, ll b) {
     return (a * b) / gcd(a, b);
 }
 
+vector<string> tokenize(const string &s, char c) {
+    vector<string> T;
+    stringstream ss = stringstream(s);
+
+    for (string t; getline(ss, t, c);) {
+        T.push_back(t);
+    }
+
+    return T;
+}
+
+string lower(string s) {
+    string r(s);
+    transform(s.begin(), s.end(), r.begin(), [](unsigned char c) { return tolower(c); });
+    return r;
+}
+
+string upper(string s) {
+    string r(s);
+    transform(s.begin(), s.end(), r.begin(), [](unsigned char c) { return toupper(c); });
+    return r;
+}
+
 int main() {
     fast_io
 
