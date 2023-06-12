@@ -1,17 +1,33 @@
 # Kattis Solutions
 
-This repository contains my Kattis solutions. I'm working through all the problems, sorted from easy to hard.
+This repository contains my Kattis solutions.
+I am working through the problems, sorted from easy to hard to learn `c++`.
 
-I am doing this to learn a little bit about C++.
+## Template
 
-## Snippets
+I use various shorthands in my template to write less code.
 
-In this directory you can find various snippets of code for particular tasks that I've found I had to do multiple times.
-I can use these to save time when coding solutions.
+Examples:
+```cpp
+// https://stackoverflow.com/questions/31162367/significance-of-ios-basesync-with-stdiofalse-cin-tienull
+#define fast_io ios_base::sync_with_stdio(false); cin.tie(nullptr); cout.tie(nullptr);
 
-## Problems
+#define ld long double
+#define ll long long
+#define vec vector
+#define arr array
+#define str string
 
-In this directory you can find my solutions. To run a particular solution:
+#define print(x) cout << #x << " = " << x << endl;
+#define OUT(x) cout << x << "\n";
 
-1. Assuming you're in vs-code: Press `CTRL+SHIFT+B` to build.
-2. The problem compiles to `./build/Kattis`, and can be run from there.
+#define FOR(i, from, to_excl, inc) for (int i = from; i < to_excl; i += inc)
+#define FORALL(item, container) for (auto item: container)
+#define WHILE(n) while (n-- > 0)
+```
+
+## Solved problems
+
+Look at the `problems` directory.
+
+To run a particular solution, simply copy-paste the cpp file into your desired editor, compile it, and run it.
