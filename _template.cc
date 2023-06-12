@@ -37,7 +37,11 @@ ll gcd(ll a, ll b) {
 }
 
 ll lcm(ll a, ll b) {
-    return (a * b) / gcd(a, b);
+    return (a / gcd(a, b)) * b;
+}
+
+ll floorMod(const ll a, const ll b) {
+    return (a % b + b) % b;
 }
 
 vector<string> tokenize(const string &s, char c) {
