@@ -1,17 +1,17 @@
 # Kattis Solutions
 
 This repository contains my Kattis solutions.
-I am working through the problems, sorted from easy to hard to learn `c++`.
+I am working through the problems, sorted from easy to hard, to learn `c++`.
 
 ## Template
 
 I use various shorthands in my template to write less code.
 
 Examples:
+
 ```cpp
 // https://stackoverflow.com/questions/31162367/significance-of-ios-basesync-with-stdiofalse-cin-tienull
 #define fast_io ios_base::sync_with_stdio(false); cin.tie(nullptr); cout.tie(nullptr);
-
 #define ld long double
 #define ll long long
 #define vec vector
