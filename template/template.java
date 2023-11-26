@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
-public class template {
+class template {
   private void run() throws IOException {
     BufferedReader r = new BufferedReader(new InputStreamReader(System.in));
     BufferedWriter w = new BufferedWriter(new OutputStreamWriter(System.out));
