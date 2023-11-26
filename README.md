@@ -90,7 +90,7 @@ Related settings from `settings.json`:
 | [ghostleg](https://open.kattis.com/problems/ghostleg) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/ghostleg/ghostleg.cpp) |
 | [goatrope](https://open.kattis.com/problems/goatrope) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/goatrope/goatrope.cpp) |
 | [grading](https://open.kattis.com/problems/grading) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/grading/grading.cpp) |
-| [grassseed](https://open.kattis.com/problems/grassseed) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/grassseed/grassseed.cpp) |
+| [grassseed](https://open.kattis.com/problems/grassseed) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/grassseed/grassseed.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/grassseed/grassseed.java) |
 | [greetings2](https://open.kattis.com/problems/greetings2) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/greetings2/greetings2.cpp) |
 | [hangingout](https://open.kattis.com/problems/hangingout) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/hangingout/hangingout.cpp) |
 | [hangman](https://open.kattis.com/problems/hangman) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/hangman/hangman.cpp) |
