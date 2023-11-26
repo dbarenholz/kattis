@@ -136,7 +136,7 @@ Related settings from `settings.json`:
 | [nsum](https://open.kattis.com/problems/nsum) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/nsum/nsum.cpp) |
 | [numberfun](https://open.kattis.com/problems/numberfun) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/numberfun/numberfun.cpp) |
 | [oddecho](https://open.kattis.com/problems/oddecho) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/oddecho/oddecho.cpp) |
-| [oddities](https://open.kattis.com/problems/oddities) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/oddities/oddities.cpp) |
+| [oddities](https://open.kattis.com/problems/oddities) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/oddities/oddities.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/oddities/oddities.java) |
 | [oddmanout](https://open.kattis.com/problems/oddmanout) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/oddmanout/oddmanout.cpp) |
 | [ofugsnuid](https://open.kattis.com/problems/ofugsnuid) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/ofugsnuid/ofugsnuid.cpp) |
 | [parking2](https://open.kattis.com/problems/parking2) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/parking2/parking2.cpp) |
