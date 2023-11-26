@@ -181,7 +181,7 @@ Related settings from `settings.json`:
 | [synchronizinglists](https://open.kattis.com/problems/synchronizinglists) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/synchronizinglists/synchronizinglists.cpp) |
 | [t9spelling](https://open.kattis.com/problems/t9spelling) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/t9spelling/t9spelling.cpp) |
 | [taisformula](https://open.kattis.com/problems/taisformula) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/taisformula/taisformula.cpp) |
-| [tarifa](https://open.kattis.com/problems/tarifa) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/tarifa/tarifa.cpp) |
+| [tarifa](https://open.kattis.com/problems/tarifa) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/tarifa/tarifa.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/tarifa/tarifa.java) |
 | [tetration](https://open.kattis.com/problems/tetration) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/tetration/tetration.cpp) |
 | [thelastproblem](https://open.kattis.com/problems/thelastproblem) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/thelastproblem/thelastproblem.cpp) |
 | [timeloop](https://open.kattis.com/problems/timeloop) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/timeloop/timeloop.cpp) |
