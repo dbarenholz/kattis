@@ -195,5 +195,5 @@ Related settings from `settings.json`:
 | [upprodun](https://open.kattis.com/problems/upprodun) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/upprodun/upprodun.cpp) |
 | [weakvertices](https://open.kattis.com/problems/weakvertices) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/weakvertices/weakvertices.cpp) |
 | [whichisgreater](https://open.kattis.com/problems/whichisgreater) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/whichisgreater/whichisgreater.cpp) |
-| [zamka](https://open.kattis.com/problems/zamka) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/zamka/zamka.cpp) |
+| [zamka](https://open.kattis.com/problems/zamka) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/zamka/zamka.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/zamka/zamka.java) |
 | [zanzibar](https://open.kattis.com/problems/zanzibar) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/zanzibar/zanzibar.cpp) |
