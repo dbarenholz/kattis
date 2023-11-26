@@ -77,7 +77,7 @@ Related settings from `settings.json`:
 | [everywhere](https://open.kattis.com/problems/everywhere) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/everywhere/everywhere.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/everywhere/everywhere.java) |
 | [eyeofsauron](https://open.kattis.com/problems/eyeofsauron) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/eyeofsauron/eyeofsauron.cpp) |
 | [fadingwind](https://open.kattis.com/problems/fadingwind) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/fadingwind/fadingwind.cpp) |
-| [faktor](https://open.kattis.com/problems/faktor) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/faktor/faktor.cpp) |
+| [faktor](https://open.kattis.com/problems/faktor) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/faktor/faktor.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/faktor/faktor.java) |
 | [fiftyshades](https://open.kattis.com/problems/fiftyshades) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/fiftyshades/fiftyshades.cpp) |
 | [filip](https://open.kattis.com/problems/filip) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/filip/filip.cpp) |
 | [finalexam2](https://open.kattis.com/problems/finalexam2) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/finalexam2/finalexam2.cpp) |
