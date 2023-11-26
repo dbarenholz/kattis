@@ -140,7 +140,7 @@ Related settings from `settings.json`:
 | [oddmanout](https://open.kattis.com/problems/oddmanout) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/oddmanout/oddmanout.cpp) |
 | [ofugsnuid](https://open.kattis.com/problems/ofugsnuid) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/ofugsnuid/ofugsnuid.cpp) |
 | [parking2](https://open.kattis.com/problems/parking2) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/parking2/parking2.cpp) |
-| [pet](https://open.kattis.com/problems/pet) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/pet/pet.cpp) |
+| [pet](https://open.kattis.com/problems/pet) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/pet/pet.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/pet/pet.java) |
 | [pieceofcake2](https://open.kattis.com/problems/pieceofcake2) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/pieceofcake2/pieceofcake2.cpp) |
 | [planina](https://open.kattis.com/problems/planina) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/planina/planina.cpp) |
 | [pokechat](https://open.kattis.com/problems/pokechat) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/pokechat/pokechat.cpp) |
