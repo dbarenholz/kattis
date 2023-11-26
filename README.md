@@ -42,7 +42,7 @@ Related settings from `settings.json`:
 | [batterup](https://open.kattis.com/problems/batterup) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/batterup/batterup.cpp) |
 | [bela](https://open.kattis.com/problems/bela) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/bela/bela.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/bela/bela.java) |
 | [betting](https://open.kattis.com/problems/betting) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/betting/betting.cpp) |
-| [bijele](https://open.kattis.com/problems/bijele) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/bijele/bijele.cpp) |
+| [bijele](https://open.kattis.com/problems/bijele) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/bijele/bijele.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/bijele/bijele.java) |
 | [bookingaroom](https://open.kattis.com/problems/bookingaroom) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/bookingaroom/bookingaroom.cpp) |
 | [bus](https://open.kattis.com/problems/bus) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/bus/bus.cpp) |
 | [canadianseh](https://open.kattis.com/problems/canadianseh) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/canadianseh/canadianseh.cpp) |
