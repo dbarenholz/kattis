@@ -20,6 +20,7 @@ case "$E" in
 esac
 
 # Language-agnostic steps (always execute)
+mkdir -p "../src/$P/"
 cp "../working/working.$E" "../src/$P/$P.$E"
 ./updateTable.sh  
 git add "../src/$P/$P.$E"
