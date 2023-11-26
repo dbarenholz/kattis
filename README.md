@@ -163,7 +163,7 @@ Related settings from `settings.json`:
 | [romans](https://open.kattis.com/problems/romans) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/romans/romans.cpp) |
 | [sevenwonders](https://open.kattis.com/problems/sevenwonders) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/sevenwonders/sevenwonders.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/sevenwonders/sevenwonders.java) |
 | [shatteredcake](https://open.kattis.com/problems/shatteredcake) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/shatteredcake/shatteredcake.cpp) |
-| [sibice](https://open.kattis.com/problems/sibice) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/sibice/sibice.cpp) |
+| [sibice](https://open.kattis.com/problems/sibice) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/sibice/sibice.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/sibice/sibice.java) |
 | [sifferprodukt](https://open.kattis.com/problems/sifferprodukt) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/sifferprodukt/sifferprodukt.cpp) |
 | [simonsays](https://open.kattis.com/problems/simonsays) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/simonsays/simonsays.cpp) |
 | [skener](https://open.kattis.com/problems/skener) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/skener/skener.cpp) |
