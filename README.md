@@ -161,7 +161,7 @@ Related settings from `settings.json`:
 | [reversebinary](https://open.kattis.com/problems/reversebinary) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/reversebinary/reversebinary.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/reversebinary/reversebinary.java) |
 | [rijeci](https://open.kattis.com/problems/rijeci) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/rijeci/rijeci.cpp) |
 | [romans](https://open.kattis.com/problems/romans) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/romans/romans.cpp) |
-| [sevenwonders](https://open.kattis.com/problems/sevenwonders) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/sevenwonders/sevenwonders.cpp) |
+| [sevenwonders](https://open.kattis.com/problems/sevenwonders) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/sevenwonders/sevenwonders.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/sevenwonders/sevenwonders.java) |
 | [shatteredcake](https://open.kattis.com/problems/shatteredcake) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/shatteredcake/shatteredcake.cpp) |
 | [sibice](https://open.kattis.com/problems/sibice) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/sibice/sibice.cpp) |
 | [sifferprodukt](https://open.kattis.com/problems/sifferprodukt) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/sifferprodukt/sifferprodukt.cpp) |
