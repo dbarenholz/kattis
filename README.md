@@ -97,7 +97,7 @@ Related settings from `settings.json`:
 | [harshadnumbers](https://open.kattis.com/problems/harshadnumbers) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/harshadnumbers/harshadnumbers.cpp) |
 | [heartrate](https://open.kattis.com/problems/heartrate) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/heartrate/heartrate.cpp) |
 | [heirsdilemma](https://open.kattis.com/problems/heirsdilemma) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/heirsdilemma/heirsdilemma.cpp) |
-| [hello](https://open.kattis.com/problems/hello) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/hello/hello.cpp) |
+| [hello](https://open.kattis.com/problems/hello) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/hello/hello.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/hello/hello.java) |
 | [helpaphd](https://open.kattis.com/problems/helpaphd) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/helpaphd/helpaphd.cpp) |
 | [hissingmicrophone](https://open.kattis.com/problems/hissingmicrophone) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/hissingmicrophone/hissingmicrophone.cpp) |
 | [hittingtargets](https://open.kattis.com/problems/hittingtargets) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/hittingtargets/hittingtargets.cpp) |
