@@ -74,7 +74,7 @@ Related settings from `settings.json`:
 | [eligibility](https://open.kattis.com/problems/eligibility) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/eligibility/eligibility.cpp) |
 | [encodedmessage](https://open.kattis.com/problems/encodedmessage) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/encodedmessage/encodedmessage.cpp) |
 | [estimatingtheareaofacircle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/estimatingtheareaofacircle/estimatingtheareaofacircle.cpp) |
-| [everywhere](https://open.kattis.com/problems/everywhere) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/everywhere/everywhere.cpp) |
+| [everywhere](https://open.kattis.com/problems/everywhere) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/everywhere/everywhere.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/everywhere/everywhere.java) |
 | [eyeofsauron](https://open.kattis.com/problems/eyeofsauron) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/eyeofsauron/eyeofsauron.cpp) |
 | [fadingwind](https://open.kattis.com/problems/fadingwind) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/fadingwind/fadingwind.cpp) |
 | [faktor](https://open.kattis.com/problems/faktor) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/faktor/faktor.cpp) |
