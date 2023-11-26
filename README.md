@@ -47,7 +47,7 @@ Related settings from `settings.json`:
 | [bus](https://open.kattis.com/problems/bus) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/bus/bus.cpp) |
 | [canadianseh](https://open.kattis.com/problems/canadianseh) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/canadianseh/canadianseh.cpp) |
 | [carrots](https://open.kattis.com/problems/carrots) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/carrots/carrots.cpp) |
-| [cetvrta](https://open.kattis.com/problems/cetvrta) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/cetvrta/cetvrta.cpp) |
+| [cetvrta](https://open.kattis.com/problems/cetvrta) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/cetvrta/cetvrta.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/cetvrta/cetvrta.java) |
 | [chanukah](https://open.kattis.com/problems/chanukah) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/chanukah/chanukah.cpp) |
 | [classfieldtrip](https://open.kattis.com/problems/classfieldtrip) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/classfieldtrip/classfieldtrip.cpp) |
 | [coconutsplat](https://open.kattis.com/problems/coconutsplat) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/coconutsplat/coconutsplat.cpp) |
