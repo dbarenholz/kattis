@@ -79,7 +79,7 @@ Related settings from `settings.json`:
 | [fadingwind](https://open.kattis.com/problems/fadingwind) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/fadingwind/fadingwind.cpp) |
 | [faktor](https://open.kattis.com/problems/faktor) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/faktor/faktor.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/faktor/faktor.java) |
 | [fiftyshades](https://open.kattis.com/problems/fiftyshades) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/fiftyshades/fiftyshades.cpp) |
-| [filip](https://open.kattis.com/problems/filip) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/filip/filip.cpp) |
+| [filip](https://open.kattis.com/problems/filip) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/filip/filip.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/filip/filip.java) |
 | [finalexam2](https://open.kattis.com/problems/finalexam2) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/finalexam2/finalexam2.cpp) |
 | [findingana](https://open.kattis.com/problems/findingana) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/findingana/findingana.cpp) |
 | [forcedchoice](https://open.kattis.com/problems/forcedchoice) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/forcedchoice/forcedchoice.cpp) |
