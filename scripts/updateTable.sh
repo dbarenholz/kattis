@@ -26,7 +26,7 @@ for f in $F; do
   unset TMP
 
   # If we have an entry
-  CURRENT="$(grep -n "$P" "../README.md")"
+  CURRENT="$(grep -n "$P" "../README.md" || true)"
   if [[ $CURRENT != "" ]]; then
     # Append other language variant by replacing on the desired line
     LINE_NO=$(echo "$CURRENT" | cut -d: -f1)
