@@ -16,10 +16,8 @@ class template {
       // solve here
     }
 
-
     w.write("\n");
     w.flush();
-
   }
 
   public static void main(String[] a) throws IOException {
