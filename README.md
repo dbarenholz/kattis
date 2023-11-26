@@ -188,7 +188,7 @@ Related settings from `settings.json`:
 | [transitwoes](https://open.kattis.com/problems/transitwoes) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/transitwoes/transitwoes.cpp) |
 | [triarea](https://open.kattis.com/problems/triarea) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/triarea/triarea.cpp) |
 | [trik](https://open.kattis.com/problems/trik) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/trik/trik.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/trik/trik.java) |
-| [twostones](https://open.kattis.com/problems/twostones) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/twostones/twostones.cpp) |
+| [twostones](https://open.kattis.com/problems/twostones) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/twostones/twostones.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/twostones/twostones.java) |
 | [twosum](https://open.kattis.com/problems/twosum) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/twosum/twosum.cpp) |
 | [ultimatebinarywatch](https://open.kattis.com/problems/ultimatebinarywatch) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/ultimatebinarywatch/ultimatebinarywatch.cpp) |
 | [undeadoralive](https://open.kattis.com/problems/undeadoralive) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/undeadoralive/undeadoralive.cpp) |
