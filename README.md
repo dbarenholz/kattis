@@ -165,7 +165,7 @@ Related settings from `settings.json`:
 | [shatteredcake](https://open.kattis.com/problems/shatteredcake) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/shatteredcake/shatteredcake.cpp) |
 | [sibice](https://open.kattis.com/problems/sibice) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/sibice/sibice.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/sibice/sibice.java) |
 | [sifferprodukt](https://open.kattis.com/problems/sifferprodukt) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/sifferprodukt/sifferprodukt.cpp) |
-| [simonsays](https://open.kattis.com/problems/simonsays) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/simonsays/simonsays.cpp) |
+| [simonsays](https://open.kattis.com/problems/simonsays) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/simonsays/simonsays.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/simonsays/simonsays.java) |
 | [skener](https://open.kattis.com/problems/skener) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/skener/skener.cpp) |
 | [skocimis](https://open.kattis.com/problems/skocimis) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/skocimis/skocimis.cpp) |
 | [skruop](https://open.kattis.com/problems/skruop) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/skruop/skruop.cpp) |
