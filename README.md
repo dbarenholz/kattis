@@ -37,7 +37,7 @@ Related settings from `settings.json`:
 | -------------------- | --------- |
 | [addingtrouble](https://open.kattis.com/problems/addingtrouble) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/addingtrouble/addingtrouble.cpp) |
 | [apaxianparent](https://open.kattis.com/problems/apaxianparent) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/apaxianparent/apaxianparent.cpp) |
-| [autori](https://open.kattis.com/problems/autori) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/autori/autori.cpp) |
+| [autori](https://open.kattis.com/problems/autori) | [class](https://github.com/dbarenholz/kattis/blob/main/src/autori/autori.class), [cpp](https://github.com/dbarenholz/kattis/blob/main/src/autori/autori.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/autori/autori.java) |
 | [avion](https://open.kattis.com/problems/avion) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/avion/avion.cpp) |
 | [batterup](https://open.kattis.com/problems/batterup) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/batterup/batterup.cpp) |
 | [bela](https://open.kattis.com/problems/bela) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/bela/bela.cpp) |
