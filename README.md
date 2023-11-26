@@ -152,7 +152,7 @@ Related settings from `settings.json`:
 | [pyramids](https://open.kattis.com/problems/pyramids) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/pyramids/pyramids.cpp) |
 | [qaly](https://open.kattis.com/problems/qaly) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/qaly/qaly.cpp) |
 | [quadrant](https://open.kattis.com/problems/quadrant) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/quadrant/quadrant.cpp) |
-| [r2](https://open.kattis.com/problems/r2) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/r2/r2.cpp) |
+| [r2](https://open.kattis.com/problems/r2) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/r2/r2.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/r2/r2.java) |
 | [racingalphabet](https://open.kattis.com/problems/racingalphabet) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/racingalphabet/racingalphabet.cpp) |
 | [railroad2](https://open.kattis.com/problems/railroad2) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/railroad2/railroad2.cpp) |
 | [ratingproblems](https://open.kattis.com/problems/ratingproblems) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/ratingproblems/ratingproblems.cpp) |
