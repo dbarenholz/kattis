@@ -1,5 +1,7 @@
 #! /bin/bash
 
+set -euo pipefail
+
 # cd to scripts directory before running
 cd "$(dirname "$0")" || exit 1
 
