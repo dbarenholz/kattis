@@ -171,7 +171,7 @@ Related settings from `settings.json`:
 | [skruop](https://open.kattis.com/problems/skruop) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/skruop/skruop.cpp) |
 | [smil](https://open.kattis.com/problems/smil) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/smil/smil.cpp) |
 | [sorttwonumbers](https://open.kattis.com/problems/sorttwonumbers) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/sorttwonumbers/sorttwonumbers.cpp) |
-| [spavanac](https://open.kattis.com/problems/spavanac) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/spavanac/spavanac.cpp) |
+| [spavanac](https://open.kattis.com/problems/spavanac) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/spavanac/spavanac.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/spavanac/spavanac.java) |
 | [speeding](https://open.kattis.com/problems/speeding) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/speeding/speeding.cpp) |
 | [squarepeg](https://open.kattis.com/problems/squarepeg) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/squarepeg/squarepeg.cpp) |
 | [stickykeys](https://open.kattis.com/problems/stickykeys) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/stickykeys/stickykeys.cpp) |
