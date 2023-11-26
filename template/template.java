@@ -1,4 +1,3 @@
-// Find and replace template to problem-name (without underscore)
 package template;
 
 import java.io.BufferedReader;
