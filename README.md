@@ -158,7 +158,7 @@ Related settings from `settings.json`:
 | [ratingproblems](https://open.kattis.com/problems/ratingproblems) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/ratingproblems/ratingproblems.cpp) |
 | [rectanglearea](https://open.kattis.com/problems/rectanglearea) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/rectanglearea/rectanglearea.cpp) |
 | [relocation](https://open.kattis.com/problems/relocation) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/relocation/relocation.cpp) |
-| [reversebinary](https://open.kattis.com/problems/reversebinary) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/reversebinary/reversebinary.cpp) |
+| [reversebinary](https://open.kattis.com/problems/reversebinary) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/reversebinary/reversebinary.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/reversebinary/reversebinary.java) |
 | [rijeci](https://open.kattis.com/problems/rijeci) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/rijeci/rijeci.cpp) |
 | [romans](https://open.kattis.com/problems/romans) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/romans/romans.cpp) |
 | [sevenwonders](https://open.kattis.com/problems/sevenwonders) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/sevenwonders/sevenwonders.cpp) |
