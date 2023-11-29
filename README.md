@@ -111,6 +111,7 @@ Related settings from `settings.json`:
 | [heirsdilemma](https://open.kattis.com/problems/heirsdilemma) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/heirsdilemma/heirsdilemma.cpp) |
 | [hello](https://open.kattis.com/problems/hello) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/hello/hello.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/hello/hello.java) |
 | [helpaphd](https://open.kattis.com/problems/helpaphd) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/helpaphd/helpaphd.cpp) |
+| [herman](https://open.kattis.com/problems/herman) | [java](https://github.com/dbarenholz/kattis/blob/main/src/herman/herman.java) |
 | [hissingmicrophone](https://open.kattis.com/problems/hissingmicrophone) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/hissingmicrophone/hissingmicrophone.cpp) |
 | [hittingtargets](https://open.kattis.com/problems/hittingtargets) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/hittingtargets/hittingtargets.cpp) |
 | [homework](https://open.kattis.com/problems/homework) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/homework/homework.cpp) |
