@@ -60,6 +60,7 @@ Related settings from `settings.json`:
 | [coconutsplat](https://open.kattis.com/problems/coconutsplat) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/coconutsplat/coconutsplat.cpp) |
 | [codetosavelives](https://open.kattis.com/problems/codetosavelives) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/codetosavelives/codetosavelives.cpp) |
 | [cold](https://open.kattis.com/problems/cold) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/cold/cold.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/cold/cold.java) |
+| [conundrum](https://open.kattis.com/problems/conundrum) | [java](https://github.com/dbarenholz/kattis/blob/main/src/conundrum/conundrum.java) |
 | [countingclauses](https://open.kattis.com/problems/countingclauses) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/countingclauses/countingclauses.cpp) |
 | [countthevowels](https://open.kattis.com/problems/countthevowels) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/countthevowels/countthevowels.cpp) |
 | [cprnummer](https://open.kattis.com/problems/cprnummer) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/cprnummer/cprnummer.cpp) |
