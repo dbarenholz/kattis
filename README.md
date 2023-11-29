@@ -36,6 +36,7 @@ Related settings from `settings.json`:
 | Problem              | Solutions |
 | -------------------- | --------- |
 | [aaah](https://open.kattis.com/problems/aaah) | [java](https://github.com/dbarenholz/kattis/blob/main/src/aaah/aaah.java) |
+| [abc](https://open.kattis.com/problems/abc) | [java](https://github.com/dbarenholz/kattis/blob/main/src/abc/abc.java) |
 | [addingtrouble](https://open.kattis.com/problems/addingtrouble) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/addingtrouble/addingtrouble.cpp) |
 | [apaxianparent](https://open.kattis.com/problems/apaxianparent) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/apaxianparent/apaxianparent.cpp) |
 | [autori](https://open.kattis.com/problems/autori) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/autori/autori.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/autori/autori.java) |
