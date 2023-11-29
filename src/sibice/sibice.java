@@ -14,9 +14,9 @@ class sibice {
 
     StringTokenizer s = new StringTokenizer(r.readLine());
 
-    int N = Integer.parseInt(r.readLine());
-    int W = Integer.parseInt(r.readLine());
-    int H = Integer.parseInt(r.readLine());
+    int N = Integer.parseInt(s.nextToken());
+    int W = Integer.parseInt(s.nextToken());
+    int H = Integer.parseInt(s.nextToken());
 
     while (N-- > 0) {
       int c = Integer.parseInt(r.readLine());
