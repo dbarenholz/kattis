@@ -70,6 +70,7 @@ Related settings from `settings.json`:
 | [cutthenegativity](https://open.kattis.com/problems/cutthenegativity) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/cutthenegativity/cutthenegativity.cpp) |
 | [datum](https://open.kattis.com/problems/datum) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/datum/datum.cpp) |
 | [deathknight](https://open.kattis.com/problems/deathknight) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/deathknight/deathknight.cpp) |
+| [detaileddifferences](https://open.kattis.com/problems/detaileddifferences) | [java](https://github.com/dbarenholz/kattis/blob/main/src/detaileddifferences/detaileddifferences.java) |
 | [dicecup](https://open.kattis.com/problems/dicecup) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/dicecup/dicecup.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/dicecup/dicecup.java) |
 | [dicegame](https://open.kattis.com/problems/dicegame) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/dicegame/dicegame.cpp) |
 | [digitswap](https://open.kattis.com/problems/digitswap) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/digitswap/digitswap.cpp) |
