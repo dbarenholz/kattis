@@ -52,6 +52,7 @@ Related settings from `settings.json`:
 | [bus](https://open.kattis.com/problems/bus) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/bus/bus.cpp) |
 | [busnumbers](https://open.kattis.com/problems/busnumbers) | [java](https://github.com/dbarenholz/kattis/blob/main/src/busnumbers/busnumbers.java) |
 | [canadianseh](https://open.kattis.com/problems/canadianseh) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/canadianseh/canadianseh.cpp) |
+| [carefulascent](https://open.kattis.com/problems/carefulascent) | [java](https://github.com/dbarenholz/kattis/blob/main/src/carefulascent/carefulascent.java) |
 | [carrots](https://open.kattis.com/problems/carrots) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/carrots/carrots.cpp) |
 | [cetvrta](https://open.kattis.com/problems/cetvrta) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/cetvrta/cetvrta.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/cetvrta/cetvrta.java) |
 | [chanukah](https://open.kattis.com/problems/chanukah) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/chanukah/chanukah.cpp) |
