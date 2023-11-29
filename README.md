@@ -38,6 +38,7 @@ Related settings from `settings.json`:
 | [aaah](https://open.kattis.com/problems/aaah) | [java](https://github.com/dbarenholz/kattis/blob/main/src/aaah/aaah.java) |
 | [abc](https://open.kattis.com/problems/abc) | [java](https://github.com/dbarenholz/kattis/blob/main/src/abc/abc.java) |
 | [addingtrouble](https://open.kattis.com/problems/addingtrouble) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/addingtrouble/addingtrouble.cpp) |
+| [alphabetspam](https://open.kattis.com/problems/alphabetspam) | [java](https://github.com/dbarenholz/kattis/blob/main/src/alphabetspam/alphabetspam.java) |
 | [apaxianparent](https://open.kattis.com/problems/apaxianparent) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/apaxianparent/apaxianparent.cpp) |
 | [autori](https://open.kattis.com/problems/autori) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/autori/autori.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/autori/autori.java) |
 | [avion](https://open.kattis.com/problems/avion) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/avion/avion.cpp) |
