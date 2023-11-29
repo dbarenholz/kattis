@@ -73,6 +73,7 @@ Related settings from `settings.json`:
 | [detaileddifferences](https://open.kattis.com/problems/detaileddifferences) | [java](https://github.com/dbarenholz/kattis/blob/main/src/detaileddifferences/detaileddifferences.java) |
 | [dicecup](https://open.kattis.com/problems/dicecup) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/dicecup/dicecup.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/dicecup/dicecup.java) |
 | [dicegame](https://open.kattis.com/problems/dicegame) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/dicegame/dicegame.cpp) |
+| [different](https://open.kattis.com/problems/different) | [java](https://github.com/dbarenholz/kattis/blob/main/src/different/different.java) |
 | [digitswap](https://open.kattis.com/problems/digitswap) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/digitswap/digitswap.cpp) |
 | [divvyingup](https://open.kattis.com/problems/divvyingup) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/divvyingup/divvyingup.cpp) |
 | [doublepassword](https://open.kattis.com/problems/doublepassword) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/doublepassword/doublepassword.cpp) |
