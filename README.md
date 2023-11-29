@@ -79,6 +79,7 @@ Related settings from `settings.json`:
 | [doublepassword](https://open.kattis.com/problems/doublepassword) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/doublepassword/doublepassword.cpp) |
 | [drmmessages](https://open.kattis.com/problems/drmmessages) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/drmmessages/drmmessages.cpp) |
 | [drunkvigenere](https://open.kattis.com/problems/drunkvigenere) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/drunkvigenere/drunkvigenere.cpp) |
+| [dst](https://open.kattis.com/problems/dst) | [java](https://github.com/dbarenholz/kattis/blob/main/src/dst/dst.java) |
 | [echoechoecho](https://open.kattis.com/problems/echoechoecho) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/echoechoecho/echoechoecho.cpp) |
 | [electricaloutlets](https://open.kattis.com/problems/electricaloutlets) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/electricaloutlets/electricaloutlets.cpp) |
 | [eligibility](https://open.kattis.com/problems/eligibility) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/eligibility/eligibility.cpp) |
