@@ -7,10 +7,10 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
 class template {
-  private void run() throws IOException {
-    BufferedReader r = new BufferedReader(new InputStreamReader(System.in));
-    BufferedWriter w = new BufferedWriter(new OutputStreamWriter(System.out));
-    
+  BufferedReader r = new BufferedReader(new InputStreamReader(System.in));
+  BufferedWriter w = new BufferedWriter(new OutputStreamWriter(System.out));
+
+  private void run() throws IOException {  
     int n = Integer.parseInt(r.readLine());
     while (n --> 0) {
       // solve here
