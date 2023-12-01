@@ -84,6 +84,7 @@ Related settings from `settings.json`:
 | [echoechoecho](https://open.kattis.com/problems/echoechoecho) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/echoechoecho/echoechoecho.cpp) |
 | [electricaloutlets](https://open.kattis.com/problems/electricaloutlets) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/electricaloutlets/electricaloutlets.cpp) |
 | [eligibility](https://open.kattis.com/problems/eligibility) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/eligibility/eligibility.cpp) |
+| [empleh](https://open.kattis.com/problems/empleh) | [java](https://github.com/dbarenholz/kattis/blob/main/src/empleh/empleh.java) |
 | [encodedmessage](https://open.kattis.com/problems/encodedmessage) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/encodedmessage/encodedmessage.cpp) |
 | [estimatingtheareaofacircle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/estimatingtheareaofacircle/estimatingtheareaofacircle.cpp) |
 | [everywhere](https://open.kattis.com/problems/everywhere) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/everywhere/everywhere.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/everywhere/everywhere.java) |
