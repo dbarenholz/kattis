@@ -43,7 +43,7 @@ Related settings from `settings.json`:
 | [apaxianparent](https://open.kattis.com/problems/apaxianparent) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/apaxianparent/apaxianparent.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/apaxianparent/apaxianparent.hs) |
 | [autori](https://open.kattis.com/problems/autori) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/autori/autori.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/autori/autori.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/autori/autori.java) |
 | [avion](https://open.kattis.com/problems/avion) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/avion/avion.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/avion/avion.hs) |
-| [batterup](https://open.kattis.com/problems/batterup) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/batterup/batterup.cpp) |
+| [batterup](https://open.kattis.com/problems/batterup) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/batterup/batterup.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/batterup/batterup.hs) |
 | [battlesimulation](https://open.kattis.com/problems/battlesimulation) | [java](https://github.com/dbarenholz/kattis/blob/main/src/battlesimulation/battlesimulation.java) |
 | [bela](https://open.kattis.com/problems/bela) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/bela/bela.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/bela/bela.java) |
 | [betting](https://open.kattis.com/problems/betting) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/betting/betting.cpp) |
