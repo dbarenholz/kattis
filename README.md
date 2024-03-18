@@ -40,7 +40,7 @@ Related settings from `settings.json`:
 | [addingtrouble](https://open.kattis.com/problems/addingtrouble) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/addingtrouble/addingtrouble.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/addingtrouble/addingtrouble.hs) |
 | [alphabetspam](https://open.kattis.com/problems/alphabetspam) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/alphabetspam/alphabetspam.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/alphabetspam/alphabetspam.java) |
 | [apaxiaaans](https://open.kattis.com/problems/apaxiaaans) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/apaxiaaans/apaxiaaans.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/apaxiaaans/apaxiaaans.java) |
-| [apaxianparent](https://open.kattis.com/problems/apaxianparent) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/apaxianparent/apaxianparent.cpp) |
+| [apaxianparent](https://open.kattis.com/problems/apaxianparent) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/apaxianparent/apaxianparent.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/apaxianparent/apaxianparent.hs) |
 | [autori](https://open.kattis.com/problems/autori) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/autori/autori.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/autori/autori.java) |
 | [avion](https://open.kattis.com/problems/avion) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/avion/avion.cpp) |
 | [batterup](https://open.kattis.com/problems/batterup) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/batterup/batterup.cpp) |
