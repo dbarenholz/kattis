@@ -46,7 +46,7 @@ Related settings from `settings.json`:
 | [batterup](https://open.kattis.com/problems/batterup) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/batterup/batterup.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/batterup/batterup.hs) |
 | [battlesimulation](https://open.kattis.com/problems/battlesimulation) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/battlesimulation/battlesimulation.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/battlesimulation/battlesimulation.java) |
 | [bela](https://open.kattis.com/problems/bela) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/bela/bela.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/bela/bela.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/bela/bela.java) |
-| [betting](https://open.kattis.com/problems/betting) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/betting/betting.cpp) |
+| [betting](https://open.kattis.com/problems/betting) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/betting/betting.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/betting/betting.hs) |
 | [bijele](https://open.kattis.com/problems/bijele) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/bijele/bijele.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/bijele/bijele.java) |
 | [bookingaroom](https://open.kattis.com/problems/bookingaroom) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/bookingaroom/bookingaroom.cpp) |
 | [bus](https://open.kattis.com/problems/bus) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/bus/bus.cpp) |
