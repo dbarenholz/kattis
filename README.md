@@ -49,7 +49,7 @@ Related settings from `settings.json`:
 | [betting](https://open.kattis.com/problems/betting) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/betting/betting.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/betting/betting.hs) |
 | [bijele](https://open.kattis.com/problems/bijele) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/bijele/bijele.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/bijele/bijele.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/bijele/bijele.java) |
 | [bookingaroom](https://open.kattis.com/problems/bookingaroom) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/bookingaroom/bookingaroom.cpp) |
-| [bus](https://open.kattis.com/problems/bus) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/bus/bus.cpp) |
+| [bus](https://open.kattis.com/problems/bus) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/bus/bus.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/bus/bus.hs) |
 | [busnumbers](https://open.kattis.com/problems/busnumbers) | [java](https://github.com/dbarenholz/kattis/blob/main/src/busnumbers/busnumbers.java) |
 | [canadianseh](https://open.kattis.com/problems/canadianseh) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/canadianseh/canadianseh.cpp) |
 | [carefulascent](https://open.kattis.com/problems/carefulascent) | [java](https://github.com/dbarenholz/kattis/blob/main/src/carefulascent/carefulascent.java) |
