@@ -53,7 +53,7 @@ Related settings from `settings.json`:
 | [busnumbers](https://open.kattis.com/problems/busnumbers) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/busnumbers/busnumbers.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/busnumbers/busnumbers.java) |
 | [canadianseh](https://open.kattis.com/problems/canadianseh) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/canadianseh/canadianseh.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/canadianseh/canadianseh.hs) |
 | [carefulascent](https://open.kattis.com/problems/carefulascent) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/carefulascent/carefulascent.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/carefulascent/carefulascent.java) |
-| [carrots](https://open.kattis.com/problems/carrots) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/carrots/carrots.cpp) |
+| [carrots](https://open.kattis.com/problems/carrots) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/carrots/carrots.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/carrots/carrots.hs) |
 | [cetvrta](https://open.kattis.com/problems/cetvrta) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/cetvrta/cetvrta.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/cetvrta/cetvrta.java) |
 | [chanukah](https://open.kattis.com/problems/chanukah) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/chanukah/chanukah.cpp) |
 | [classfieldtrip](https://open.kattis.com/problems/classfieldtrip) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/classfieldtrip/classfieldtrip.cpp) |
