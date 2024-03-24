@@ -56,7 +56,7 @@ Related settings from `settings.json`:
 | [carrots](https://open.kattis.com/problems/carrots) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/carrots/carrots.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/carrots/carrots.hs) |
 | [cetvrta](https://open.kattis.com/problems/cetvrta) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/cetvrta/cetvrta.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/cetvrta/cetvrta.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/cetvrta/cetvrta.java) |
 | [chanukah](https://open.kattis.com/problems/chanukah) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/chanukah/chanukah.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/chanukah/chanukah.hs) |
-| [classfieldtrip](https://open.kattis.com/problems/classfieldtrip) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/classfieldtrip/classfieldtrip.cpp) |
+| [classfieldtrip](https://open.kattis.com/problems/classfieldtrip) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/classfieldtrip/classfieldtrip.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/classfieldtrip/classfieldtrip.hs) |
 | [coconutsplat](https://open.kattis.com/problems/coconutsplat) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/coconutsplat/coconutsplat.cpp) |
 | [codetosavelives](https://open.kattis.com/problems/codetosavelives) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/codetosavelives/codetosavelives.cpp) |
 | [cold](https://open.kattis.com/problems/cold) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/cold/cold.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/cold/cold.java) |
