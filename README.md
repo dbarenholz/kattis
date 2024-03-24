@@ -55,7 +55,7 @@ Related settings from `settings.json`:
 | [carefulascent](https://open.kattis.com/problems/carefulascent) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/carefulascent/carefulascent.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/carefulascent/carefulascent.java) |
 | [carrots](https://open.kattis.com/problems/carrots) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/carrots/carrots.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/carrots/carrots.hs) |
 | [cetvrta](https://open.kattis.com/problems/cetvrta) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/cetvrta/cetvrta.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/cetvrta/cetvrta.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/cetvrta/cetvrta.java) |
-| [chanukah](https://open.kattis.com/problems/chanukah) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/chanukah/chanukah.cpp) |
+| [chanukah](https://open.kattis.com/problems/chanukah) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/chanukah/chanukah.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/chanukah/chanukah.hs) |
 | [classfieldtrip](https://open.kattis.com/problems/classfieldtrip) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/classfieldtrip/classfieldtrip.cpp) |
 | [coconutsplat](https://open.kattis.com/problems/coconutsplat) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/coconutsplat/coconutsplat.cpp) |
 | [codetosavelives](https://open.kattis.com/problems/codetosavelives) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/codetosavelives/codetosavelives.cpp) |
