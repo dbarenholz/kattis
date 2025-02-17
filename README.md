@@ -198,6 +198,7 @@ Related settings from `settings.json`:
 | [squarepeg](https://open.kattis.com/problems/squarepeg) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/squarepeg/squarepeg.cpp) |
 | [stickykeys](https://open.kattis.com/problems/stickykeys) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/stickykeys/stickykeys.cpp) |
 | [stopwatch](https://open.kattis.com/problems/stopwatch) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/stopwatch/stopwatch.cpp) |
+| [storafmaeli](https://open.kattis.com/problems/storafmaeli) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/storafmaeli/storafmaeli.hs) |
 | [sumkindofproblem](https://open.kattis.com/problems/sumkindofproblem) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/sumkindofproblem/sumkindofproblem.cpp) |
 | [sumsquareddigits](https://open.kattis.com/problems/sumsquareddigits) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/sumsquareddigits/sumsquareddigits.cpp) |
 | [synchronizinglists](https://open.kattis.com/problems/synchronizinglists) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/synchronizinglists/synchronizinglists.cpp) |
