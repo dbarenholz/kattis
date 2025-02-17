@@ -120,6 +120,7 @@ Related settings from `settings.json`:
 | [hissingmicrophone](https://open.kattis.com/problems/hissingmicrophone) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/hissingmicrophone/hissingmicrophone.cpp) |
 | [hittingtargets](https://open.kattis.com/problems/hittingtargets) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/hittingtargets/hittingtargets.cpp) |
 | [homework](https://open.kattis.com/problems/homework) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/homework/homework.cpp) |
+| [hradgreining](https://open.kattis.com/problems/hradgreining) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/hradgreining/hradgreining.hs) |
 | [humancannonball2](https://open.kattis.com/problems/humancannonball2) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/humancannonball2/humancannonball2.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/humancannonball2/humancannonball2.java) |
 | [icpcawards](https://open.kattis.com/problems/icpcawards) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/icpcawards/icpcawards.cpp) |
 | [internationaldates](https://open.kattis.com/problems/internationaldates) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/internationaldates/internationaldates.cpp) |
