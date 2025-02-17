@@ -206,6 +206,7 @@ Related settings from `settings.json`:
 | [synchronizinglists](https://open.kattis.com/problems/synchronizinglists) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/synchronizinglists/synchronizinglists.cpp) |
 | [t9spelling](https://open.kattis.com/problems/t9spelling) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/t9spelling/t9spelling.cpp) |
 | [taisformula](https://open.kattis.com/problems/taisformula) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/taisformula/taisformula.cpp) |
+| [takkar](https://open.kattis.com/problems/takkar) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/takkar/takkar.hs) |
 | [tarifa](https://open.kattis.com/problems/tarifa) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/tarifa/tarifa.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/tarifa/tarifa.java) |
 | [telja](https://open.kattis.com/problems/telja) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/telja/telja.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/telja/telja.java) |
 | [tetration](https://open.kattis.com/problems/tetration) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/tetration/tetration.cpp) |
