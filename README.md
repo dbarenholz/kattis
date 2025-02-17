@@ -120,6 +120,7 @@ Related settings from `settings.json`:
 | [helpaphd](https://open.kattis.com/problems/helpaphd) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/helpaphd/helpaphd.cpp) |
 | [herman](https://open.kattis.com/problems/herman) | [java](https://github.com/dbarenholz/kattis/blob/main/src/herman/herman.java) |
 | [hipphipp](https://open.kattis.com/problems/hipphipp) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/hipphipp/hipphipp.hs) |
+| [hipphipphurra](https://open.kattis.com/problems/hipphipphurra) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/hipphipphurra/hipphipphurra.hs) |
 | [hissingmicrophone](https://open.kattis.com/problems/hissingmicrophone) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/hissingmicrophone/hissingmicrophone.cpp) |
 | [hittingtargets](https://open.kattis.com/problems/hittingtargets) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/hittingtargets/hittingtargets.cpp) |
 | [homework](https://open.kattis.com/problems/homework) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/homework/homework.cpp) |
