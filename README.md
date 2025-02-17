@@ -133,6 +133,7 @@ Related settings from `settings.json`:
 | [knightpacking](https://open.kattis.com/problems/knightpacking) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/knightpacking/knightpacking.cpp) |
 | [knotknowledge](https://open.kattis.com/problems/knotknowledge) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/knotknowledge/knotknowledge.cpp) |
 | [kornislav](https://open.kattis.com/problems/kornislav) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/kornislav/kornislav.cpp) |
+| [kvedja](https://open.kattis.com/problems/kvedja) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/kvedja/kvedja.hs) |
 | [ladder](https://open.kattis.com/problems/ladder) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/ladder/ladder.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/ladder/ladder.java) |
 | [laptopsticker](https://open.kattis.com/problems/laptopsticker) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/laptopsticker/laptopsticker.cpp) |
 | [lastfactorialdigit](https://open.kattis.com/problems/lastfactorialdigit) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/lastfactorialdigit/lastfactorialdigit.cpp) |
