@@ -70,6 +70,7 @@ Related settings from `settings.json`:
 | [cups](https://open.kattis.com/problems/cups) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/cups/cups.cpp) |
 | [cutinline](https://open.kattis.com/problems/cutinline) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/cutinline/cutinline.cpp) |
 | [cutthenegativity](https://open.kattis.com/problems/cutthenegativity) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/cutthenegativity/cutthenegativity.cpp) |
+| [dagatal](https://open.kattis.com/problems/dagatal) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/dagatal/dagatal.hs) |
 | [datum](https://open.kattis.com/problems/datum) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/datum/datum.cpp) |
 | [deathknight](https://open.kattis.com/problems/deathknight) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/deathknight/deathknight.cpp) |
 | [detaileddifferences](https://open.kattis.com/problems/detaileddifferences) | [java](https://github.com/dbarenholz/kattis/blob/main/src/detaileddifferences/detaileddifferences.java) |
