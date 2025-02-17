@@ -50,6 +50,7 @@ Related settings from `settings.json`:
 | [bergmal](https://open.kattis.com/problems/bergmal) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/bergmal/bergmal.hs) |
 | [betting](https://open.kattis.com/problems/betting) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/betting/betting.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/betting/betting.hs) |
 | [bijele](https://open.kattis.com/problems/bijele) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/bijele/bijele.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/bijele/bijele.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/bijele/bijele.java) |
+| [bladra2](https://open.kattis.com/problems/bladra2) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/bladra2/bladra2.hs) |
 | [bookingaroom](https://open.kattis.com/problems/bookingaroom) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/bookingaroom/bookingaroom.cpp) |
 | [bus](https://open.kattis.com/problems/bus) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/bus/bus.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/bus/bus.hs) |
 | [busnumbers](https://open.kattis.com/problems/busnumbers) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/busnumbers/busnumbers.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/busnumbers/busnumbers.java) |
