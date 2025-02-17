@@ -144,7 +144,7 @@ Related settings from `settings.json`:
 | [ladder](https://open.kattis.com/problems/ladder) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/ladder/ladder.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/ladder/ladder.java) |
 | [laptopsticker](https://open.kattis.com/problems/laptopsticker) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/laptopsticker/laptopsticker.cpp) |
 | [lastfactorialdigit](https://open.kattis.com/problems/lastfactorialdigit) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/lastfactorialdigit/lastfactorialdigit.cpp) |
-| [leggja_samen](https://open.kattis.com/problems/leggja_samen) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/leggja_samen/leggja_samen.hs) |
+| [leggjasamen](https://open.kattis.com/problems/leggjasamen) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/leggjasamen/leggjasamen.hs) |
 | [licensetolaunch](https://open.kattis.com/problems/licensetolaunch) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/licensetolaunch/licensetolaunch.cpp) |
 | [logicfunctions](https://open.kattis.com/problems/logicfunctions) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/logicfunctions/logicfunctions.cpp) |
 | [lostlineup](https://open.kattis.com/problems/lostlineup) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/lostlineup/lostlineup.cpp) |
