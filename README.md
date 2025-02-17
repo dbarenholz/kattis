@@ -212,6 +212,7 @@ Related settings from `settings.json`:
 | [undeadoralive](https://open.kattis.com/problems/undeadoralive) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/undeadoralive/undeadoralive.cpp) |
 | [upprodun](https://open.kattis.com/problems/upprodun) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/upprodun/upprodun.cpp) |
 | [velkomin](https://open.kattis.com/problems/velkomin) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/velkomin/velkomin.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/velkomin/velkomin.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/velkomin/velkomin.java) |
+| [vidsnuningur](https://open.kattis.com/problems/vidsnuningur) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/vidsnuningur/vidsnuningur.hs) |
 | [weakvertices](https://open.kattis.com/problems/weakvertices) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/weakvertices/weakvertices.cpp) |
 | [whichisgreater](https://open.kattis.com/problems/whichisgreater) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/whichisgreater/whichisgreater.cpp) |
 | [zamka](https://open.kattis.com/problems/zamka) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/zamka/zamka.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/zamka/zamka.java) |
