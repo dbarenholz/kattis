@@ -196,6 +196,7 @@ Related settings from `settings.json`:
 | [t9spelling](https://open.kattis.com/problems/t9spelling) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/t9spelling/t9spelling.cpp) |
 | [taisformula](https://open.kattis.com/problems/taisformula) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/taisformula/taisformula.cpp) |
 | [tarifa](https://open.kattis.com/problems/tarifa) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/tarifa/tarifa.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/tarifa/tarifa.java) |
+| [telja](https://open.kattis.com/problems/telja) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/telja/telja.hs) |
 | [tetration](https://open.kattis.com/problems/tetration) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/tetration/tetration.cpp) |
 | [thelastproblem](https://open.kattis.com/problems/thelastproblem) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/thelastproblem/thelastproblem.cpp) |
 | [til_hamingju](https://open.kattis.com/problems/til_hamingju) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/til_hamingju/til_hamingju.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/til_hamingju/til_hamingju.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/til_hamingju/til_hamingju.java) |
