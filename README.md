@@ -78,6 +78,7 @@ Related settings from `settings.json`:
 | [digitswap](https://open.kattis.com/problems/digitswap) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/digitswap/digitswap.cpp) |
 | [divvyingup](https://open.kattis.com/problems/divvyingup) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/divvyingup/divvyingup.cpp) |
 | [doublepassword](https://open.kattis.com/problems/doublepassword) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/doublepassword/doublepassword.cpp) |
+| [dragafra](https://open.kattis.com/problems/dragafra) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/dragafra/dragafra.hs) |
 | [drmmessages](https://open.kattis.com/problems/drmmessages) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/drmmessages/drmmessages.cpp) |
 | [drunkvigenere](https://open.kattis.com/problems/drunkvigenere) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/drunkvigenere/drunkvigenere.cpp) |
 | [dst](https://open.kattis.com/problems/dst) | [java](https://github.com/dbarenholz/kattis/blob/main/src/dst/dst.java) |
