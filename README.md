@@ -154,6 +154,7 @@ Related settings from `settings.json`:
 | [maptiles2](https://open.kattis.com/problems/maptiles2) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/maptiles2/maptiles2.cpp) |
 | [methodicmultiplication](https://open.kattis.com/problems/methodicmultiplication) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/methodicmultiplication/methodicmultiplication.cpp) |
 | [metronome](https://open.kattis.com/problems/metronome) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/metronome/metronome.cpp) |
+| [millifaersla](https://open.kattis.com/problems/millifaersla) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/millifaersla/millifaersla.hs) |
 | [mixedfractions](https://open.kattis.com/problems/mixedfractions) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/mixedfractions/mixedfractions.cpp) |
 | [moderatepace](https://open.kattis.com/problems/moderatepace) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/moderatepace/moderatepace.cpp) |
 | [monopol](https://open.kattis.com/problems/monopol) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/monopol/monopol.cpp) |
