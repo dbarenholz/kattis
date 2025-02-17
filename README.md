@@ -174,6 +174,7 @@ Related settings from `settings.json`:
 | [railroad2](https://open.kattis.com/problems/railroad2) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/railroad2/railroad2.cpp) |
 | [ratingproblems](https://open.kattis.com/problems/ratingproblems) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/ratingproblems/ratingproblems.cpp) |
 | [rectanglearea](https://open.kattis.com/problems/rectanglearea) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/rectanglearea/rectanglearea.cpp) |
+| [reduplication](https://open.kattis.com/problems/reduplication) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/reduplication/reduplication.hs) |
 | [relocation](https://open.kattis.com/problems/relocation) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/relocation/relocation.cpp) |
 | [reversebinary](https://open.kattis.com/problems/reversebinary) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/reversebinary/reversebinary.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/reversebinary/reversebinary.java) |
 | [rijeci](https://open.kattis.com/problems/rijeci) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/rijeci/rijeci.cpp) |
