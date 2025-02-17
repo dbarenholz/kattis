@@ -198,6 +198,7 @@ Related settings from `settings.json`:
 | [tarifa](https://open.kattis.com/problems/tarifa) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/tarifa/tarifa.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/tarifa/tarifa.java) |
 | [tetration](https://open.kattis.com/problems/tetration) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/tetration/tetration.cpp) |
 | [thelastproblem](https://open.kattis.com/problems/thelastproblem) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/thelastproblem/thelastproblem.cpp) |
+| [til_hamingju](https://open.kattis.com/problems/til_hamingju) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/til_hamingju/til_hamingju.hs) |
 | [timeloop](https://open.kattis.com/problems/timeloop) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/timeloop/timeloop.cpp) |
 | [transitwoes](https://open.kattis.com/problems/transitwoes) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/transitwoes/transitwoes.cpp) |
 | [triarea](https://open.kattis.com/problems/triarea) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/triarea/triarea.cpp) |
