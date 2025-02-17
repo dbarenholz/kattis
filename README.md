@@ -218,7 +218,7 @@ Related settings from `settings.json`:
 | [telja](https://open.kattis.com/problems/telja) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/telja/telja.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/telja/telja.java) |
 | [tetration](https://open.kattis.com/problems/tetration) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/tetration/tetration.cpp) |
 | [thelastproblem](https://open.kattis.com/problems/thelastproblem) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/thelastproblem/thelastproblem.cpp) |
-| [til_hamingju](https://open.kattis.com/problems/til_hamingju) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/til_hamingju/til_hamingju.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/til_hamingju/til_hamingju.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/til_hamingju/til_hamingju.java) |
+| [tilhamingju](https://open.kattis.com/problems/tilhamingju) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/tilhamingju/tilhamingju.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/tilhamingju/tilhamingju.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/tilhamingju/tilhamingju.java) |
 | [timeloop](https://open.kattis.com/problems/timeloop) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/timeloop/timeloop.cpp) |
 | [tolvunarfraedingar_telja](https://open.kattis.com/problems/tolvunarfraedingar_telja) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/tolvunarfraedingar_telja/tolvunarfraedingar_telja.hs) |
 | [transitwoes](https://open.kattis.com/problems/transitwoes) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/transitwoes/transitwoes.cpp) |
