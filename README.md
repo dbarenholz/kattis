@@ -204,6 +204,7 @@ Related settings from `settings.json`:
 | [thelastproblem](https://open.kattis.com/problems/thelastproblem) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/thelastproblem/thelastproblem.cpp) |
 | [til_hamingju](https://open.kattis.com/problems/til_hamingju) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/til_hamingju/til_hamingju.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/til_hamingju/til_hamingju.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/til_hamingju/til_hamingju.java) |
 | [timeloop](https://open.kattis.com/problems/timeloop) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/timeloop/timeloop.cpp) |
+| [tolvunarfraedingar_telja](https://open.kattis.com/problems/tolvunarfraedingar_telja) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/tolvunarfraedingar_telja/tolvunarfraedingar_telja.hs) |
 | [transitwoes](https://open.kattis.com/problems/transitwoes) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/transitwoes/transitwoes.cpp) |
 | [triarea](https://open.kattis.com/problems/triarea) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/triarea/triarea.cpp) |
 | [trik](https://open.kattis.com/problems/trik) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/trik/trik.cpp), [java](https://github.com/dbarenholz/kattis/blob/main/src/trik/trik.java) |
