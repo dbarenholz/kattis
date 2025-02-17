@@ -4,7 +4,11 @@ This repository contains my [Kattis](https://open.kattis.com/users/dbarenholz) s
 Solutions may be in multiple languages.
 You can check the table under [solved problems](#solved-problems) to see which ones I've solved, and in which languages.
 
-## Editor Setup
+## Editor setup
+
+I use [neovim](https://neovim.io) as my editor. I run files using the same commands as listed in the old editor setup, except now manually by typing them in.
+
+## Old Editor Setup
 
 I am using [vscode](https://code.visualstudio.com) as my editor.
 Using the [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) extension, I have a single hotkey that will compile/build/run many languages.
