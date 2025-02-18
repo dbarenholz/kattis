@@ -42,7 +42,7 @@ Related settings from `settings.json`:
 | [aaah](https://open.kattis.com/problems/aaah) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/aaah/aaah.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/aaah/aaah.java) |
 | [abc](https://open.kattis.com/problems/abc) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/abc/abc.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/abc/abc.java) |
 | [addingtrouble](https://open.kattis.com/problems/addingtrouble) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/addingtrouble/addingtrouble.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/addingtrouble/addingtrouble.hs) |
-| [aleadibio](https://open.kattis.com/problems/aleadibio) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/aleadibio/aleadibio.hs) |
+| [aleidibio](https://open.kattis.com/problems/aleidibio) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/aleidibio/aleidibio.hs) |
 | [alphabetspam](https://open.kattis.com/problems/alphabetspam) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/alphabetspam/alphabetspam.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/alphabetspam/alphabetspam.java) |
 | [ameriskur](https://open.kattis.com/problems/ameriskur) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/ameriskur/ameriskur.hs) |
 | [apaxiaaans](https://open.kattis.com/problems/apaxiaaans) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/apaxiaaans/apaxiaaans.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/apaxiaaans/apaxiaaans.java) |
