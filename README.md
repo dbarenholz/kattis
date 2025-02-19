@@ -41,6 +41,7 @@ Related settings from `settings.json`:
 | -------------------- | --------- |
 | [aaah](https://open.kattis.com/problems/aaah) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/aaah/aaah.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/aaah/aaah.java) |
 | [abc](https://open.kattis.com/problems/abc) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/abc/abc.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/abc/abc.java) |
+| [aboveaverage](https://open.kattis.com/problems/aboveaverage) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/aboveaverage/aboveaverage.hs) |
 | [addingtrouble](https://open.kattis.com/problems/addingtrouble) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/addingtrouble/addingtrouble.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/addingtrouble/addingtrouble.hs) |
 | [aleidibio](https://open.kattis.com/problems/aleidibio) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/aleidibio/aleidibio.hs) |
 | [alphabetspam](https://open.kattis.com/problems/alphabetspam) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/alphabetspam/alphabetspam.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/alphabetspam/alphabetspam.java) |
