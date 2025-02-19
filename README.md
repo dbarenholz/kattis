@@ -156,6 +156,7 @@ Related settings from `settings.json`:
 | [logicfunctions](https://open.kattis.com/problems/logicfunctions) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/logicfunctions/logicfunctions.cpp) |
 | [lostlineup](https://open.kattis.com/problems/lostlineup) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/lostlineup/lostlineup.cpp) |
 | [lubbilaerir](https://open.kattis.com/problems/lubbilaerir) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/lubbilaerir/lubbilaerir.hs) |
+| [maeting](https://open.kattis.com/problems/maeting) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/maeting/maeting.hs) |
 | [magictrick](https://open.kattis.com/problems/magictrick) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/magictrick/magictrick.cpp) |
 | [makingameowth](https://open.kattis.com/problems/makingameowth) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/makingameowth/makingameowth.cpp) |
 | [maptiles2](https://open.kattis.com/problems/maptiles2) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/maptiles2/maptiles2.cpp) |
