@@ -45,6 +45,7 @@ Related settings from `settings.json`:
 | [aleidibio](https://open.kattis.com/problems/aleidibio) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/aleidibio/aleidibio.hs) |
 | [alphabetspam](https://open.kattis.com/problems/alphabetspam) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/alphabetspam/alphabetspam.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/alphabetspam/alphabetspam.java) |
 | [ameriskur](https://open.kattis.com/problems/ameriskur) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/ameriskur/ameriskur.hs) |
+| [anewalphabet](https://open.kattis.com/problems/anewalphabet) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/anewalphabet/anewalphabet.hs) |
 | [apaxiaaans](https://open.kattis.com/problems/apaxiaaans) | [hs](https://github.com/dbarenholz/kattis/blob/main/src/apaxiaaans/apaxiaaans.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/apaxiaaans/apaxiaaans.java) |
 | [apaxianparent](https://open.kattis.com/problems/apaxianparent) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/apaxianparent/apaxianparent.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/apaxianparent/apaxianparent.hs) |
 | [autori](https://open.kattis.com/problems/autori) | [cpp](https://github.com/dbarenholz/kattis/blob/main/src/autori/autori.cpp), [hs](https://github.com/dbarenholz/kattis/blob/main/src/autori/autori.hs), [java](https://github.com/dbarenholz/kattis/blob/main/src/autori/autori.java) |
